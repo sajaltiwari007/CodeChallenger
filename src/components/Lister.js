@@ -99,7 +99,7 @@ setcount(counter);
   }
   return (
     <div >
-      <h1 className="text-4xl mt-24  flex justify-center">100 Dsa Questions</h1>
+      <h1 className="text-4xl mt-24  flex justify-center">Sajal's Coding Sheet</h1>
       <h3 className="text-4xl mt-3 text-purple-800 align-items-center text-center  flex justify-center">
         Crack Product based companies today
       </h3>
@@ -151,10 +151,10 @@ setcount(counter);
           <Link
             target="_blank"
             className=" text-blue-700 font-nunito "
-            to="https://www.linkedin.com/in/Dev-chaitanya-tiwari-a30478200/"
+            to="https://www.linkedin.com/in/sajaltiwari007/"
           >
             {" "}
-            Dev Chaitanya tiwari &nbsp;
+            Sajal Tiwari &nbsp;
           </Link>
 
           <img
@@ -172,9 +172,9 @@ setcount(counter);
           <Link
             target="_blank"
             className="text-sky-600 "
-            to="https://github.com/Dct-tcd"
+            to="https://github.com/sajaltiwari007"
           >
-            &nbsp; Github \ Dct-tcd{" "}
+            &nbsp; Github \ sajaltiwari007{" "}
           </Link>
         </div>
       </div>
